@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         today is a fucking awesome day.
         println("Local Change")
         println("Change 2")
+        println("This line will be merged.")
     }
 }
