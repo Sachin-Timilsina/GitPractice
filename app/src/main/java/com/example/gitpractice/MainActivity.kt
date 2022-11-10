@@ -9,7 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("Hello World. Second Commit")
-        today is a fucking awesome day.
         println("Local Change")
         println("Change 4")
         println("This line will be merged.")
